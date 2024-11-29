@@ -9,11 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="C:\Users\Aluno\Downloads\list to do form.cs" Link="list to do form.cs" />
-    <Compile Include="C:\Users\Aluno\Downloads\to do list.cs" Link="to do list.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Compile Update="Properties\Resources.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
